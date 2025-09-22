@@ -1,0 +1,8 @@
+*.nc
+*.nc4
+*.csv
+*.hdf
+*.lev20
+*_lev20
+*.tar
+*.zip
